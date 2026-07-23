@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jhpzhp.privatetalks.online/sitemap.xml
